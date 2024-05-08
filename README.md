@@ -21,4 +21,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 
 ## Author
-- [Akshay Bhujbal](https://github.com/yourusername)
+- [Akshay Bhujbal]([https://github.com/yourusername](https://github.com/AkshayBhujbal1995/Python-Basic-Game-snake/blob/main/PythonGame.ipynb))
